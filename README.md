@@ -8,7 +8,7 @@ This is auto update for SF-RP Launcher made by EasyCore
 - InjSA by EasyCore
 
 > [!NOTE]
-> InjSA original is (sampcmd)[https://github.com/BigETI/sampcmd]
+> InjSA original is [sampcmd](https://github.com/BigETI/sampcmd)
 
 ## Language
 - Javascaipt
