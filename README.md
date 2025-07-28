@@ -7,6 +7,9 @@ This is auto update for SF-RP Launcher made by EasyCore
 - Discord-RPC
 - InjSA by EasyCore
 
+> [!NOTE]
+> InjSA original is (sampcmd)[https://github.com/BigETI/sampcmd]
+
 ## Language
 - Javascaipt
 - HTML/CSS
